@@ -2,8 +2,7 @@
 
 ## Overview
 
-This project aims to build a web tool that allows users to run Natural Language Processing (NLP) on articles or blogs found on other websites using MeaningCloud API.
-
+This project aims to build a web tool that uses NLP by integrating MeaningCloud API.
 ## Instructions
 
 To run the project locally
