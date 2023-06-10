@@ -9,7 +9,4 @@ import "./styles/header.scss";
 
 console.log(checkForUrl);
 
-alert("I EXIST");
-console.log("CHANGE!!");
-
 export { checkForUrl, handleSubmit };
